@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="22574332-5bb5-4e1c-be20-3688e609c3ac" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XhzyNpvosDHgv4wyJxLJoVcmGg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="drag_prediction" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="drag_prediction" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.test_dropout">
+    <configuration name="Unnamed" type="CompoundRunConfigurationType">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="drag_prediction" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\ProjetJonathan\drag_prediction\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bazards" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="drag_prediction" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bazards.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="generate_test_set" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="drag_prediction" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/generate_test_set.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_dropout" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="drag_prediction" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_dropout.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_mlp" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="drag_prediction" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train_mlp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Compound.Unnamed" />
+      <item itemvalue="Python.train_mlp" />
+      <item itemvalue="Python.test_dropout" />
+      <item itemvalue="Python.bazards" />
+      <item itemvalue="Python.generate_test_set" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="22574332-5bb5-4e1c-be20-3688e609c3ac" name="Default Changelist" comment="" />
+      <created>1581513367681</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581513367681</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="206" y="138" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581648229050">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="206" y="138" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1500.960@0.0.1500.960" timestamp="1581648229050" />
+    <state x="532" y="189" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1581514450463">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="532" y="189" key="#com.intellij.ide.macro.MacrosDialog/0.0.1500.960@0.0.1500.960" timestamp="1581514450463" />
+    <state x="533" y="239" key="FileChooserDialogImpl" timestamp="1581558214384">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="533" y="239" key="FileChooserDialogImpl/0.0.1500.960@0.0.1500.960" timestamp="1581558214384" />
+    <state width="1480" height="256" key="GridCell.Tab.0.bottom" timestamp="1581648902158">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1480" height="256" key="GridCell.Tab.0.bottom/0.0.1500.960@0.0.1500.960" timestamp="1581648902158" />
+    <state width="938" height="256" key="GridCell.Tab.0.bottom/0.0.960.680@0.0.960.680" timestamp="1581644874846" />
+    <state width="1480" height="256" key="GridCell.Tab.0.center" timestamp="1581648902158">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1480" height="256" key="GridCell.Tab.0.center/0.0.1500.960@0.0.1500.960" timestamp="1581648902158" />
+    <state width="938" height="256" key="GridCell.Tab.0.center/0.0.960.680@0.0.960.680" timestamp="1581644874846" />
+    <state width="1480" height="256" key="GridCell.Tab.0.left" timestamp="1581648902158">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1480" height="256" key="GridCell.Tab.0.left/0.0.1500.960@0.0.1500.960" timestamp="1581648902158" />
+    <state width="938" height="256" key="GridCell.Tab.0.left/0.0.960.680@0.0.960.680" timestamp="1581644874846" />
+    <state width="1480" height="256" key="GridCell.Tab.0.right" timestamp="1581648902158">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1480" height="256" key="GridCell.Tab.0.right/0.0.1500.960@0.0.1500.960" timestamp="1581648902158" />
+    <state width="938" height="256" key="GridCell.Tab.0.right/0.0.960.680@0.0.960.680" timestamp="1581644874846" />
+    <state width="1480" height="316" key="GridCell.Tab.1.bottom" timestamp="1581558594879">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1480" height="316" key="GridCell.Tab.1.bottom/0.0.1500.960@0.0.1500.960" timestamp="1581558594879" />
+    <state width="1480" height="316" key="GridCell.Tab.1.center" timestamp="1581558594879">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1480" height="316" key="GridCell.Tab.1.center/0.0.1500.960@0.0.1500.960" timestamp="1581558594879" />
+    <state width="1480" height="316" key="GridCell.Tab.1.left" timestamp="1581558594879">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1480" height="316" key="GridCell.Tab.1.left/0.0.1500.960@0.0.1500.960" timestamp="1581558594879" />
+    <state width="1480" height="316" key="GridCell.Tab.1.right" timestamp="1581558594879">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="1480" height="316" key="GridCell.Tab.1.right/0.0.1500.960@0.0.1500.960" timestamp="1581558594879" />
+    <state x="255" y="126" key="SettingsEditor" timestamp="1581560347617">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="255" y="126" key="SettingsEditor/0.0.1500.960@0.0.1500.960" timestamp="1581560347617" />
+    <state x="447" y="309" key="com.intellij.ide.util.TipDialog" timestamp="1581562319376">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="447" y="309" key="com.intellij.ide.util.TipDialog/0.0.1500.960@0.0.1500.960" timestamp="1581562319376" />
+    <state x="421" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1581559890841">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state x="421" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1500.960@0.0.1500.960" timestamp="1581559890841" />
+  </component>
+</project>
